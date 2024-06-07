@@ -1,0 +1,28 @@
+.container {
+  padding-top: 64px;
+}
+
+.insuranceHeader {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+  gap: 10px;
+  align-items: center;
+}
+
+.insuranceName {
+  display: flex;
+  flex-direction: column;
+}
+
+/* placing download button text and icon in the same row */
+.downloadButton {
+  display: flex;
+  gap: 8px;
+}
+
+.insuranceContent {
+  display: flex;
+  margin-top: 20px;
+  gap: 60px;
+}

@@ -1,0 +1,39 @@
+.card {
+  width: 50%;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.button {
+  margin-right: 24px;
+}
+
+.content {
+  padding: 8px 0px 8px 48px;
+}
+
+.parameterGroup {
+  margin-bottom: 32px;
+}
+
+.parameterGroupName {
+  padding: 0 20px;
+}
+
+.insuranceParameterTitle {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
